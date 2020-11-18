@@ -80,7 +80,7 @@ const Hero = ({
             </div>
           </div>
           <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
-          <iframe frameborder="0" src="https://itch.io/embed-upload/2985182?color=333333" allowfullscreen="true" width="960" height="620"><a href="https://bastireiss.itch.io/civa">Play CIVA_test01 on itch.io</a></iframe>
+          <iframe frameborder="0" src="https://itch.io/embed-upload/2985182?color=333333" allowfullscreen="" width="960" height="620"><a href="https://bastireiss.itch.io/civa">Play CIVA_test01 on itch.io</a></iframe>
           </div>
           <Modal
             id="video-modal"
